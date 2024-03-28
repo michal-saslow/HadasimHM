@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMOBackOffice.Api", "HMOBackOffice.Api\HMOBackOffice.Api.csproj", "{D256C512-83C5-4560-8284-2C569B9AC991}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMOBackOffice.Service", "HMOBackOffice.Service\HMOBackOffice.Service.csproj", "{D0BAA897-580F-41E2-A6E2-D7BE48D748A5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMOBackOffice.Core", "HMOBackOffice.Core\HMOBackOffice.Core.csproj", "{162D57BB-EEBE-4235-8E63-2EB6394C4572}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HMOBackOffice.Data", "HMOBackOffice.Data\HMOBackOffice.Data.csproj", "{F1F58946-D06C-4BC4-B36A-D7DED56F5A14}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D256C512-83C5-4560-8284-2C569B9AC991}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D256C512-83C5-4560-8284-2C569B9AC991}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D256C512-83C5-4560-8284-2C569B9AC991}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D256C512-83C5-4560-8284-2C569B9AC991}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D0BAA897-580F-41E2-A6E2-D7BE48D748A5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D0BAA897-580F-41E2-A6E2-D7BE48D748A5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D0BAA897-580F-41E2-A6E2-D7BE48D748A5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D0BAA897-580F-41E2-A6E2-D7BE48D748A5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{162D57BB-EEBE-4235-8E63-2EB6394C4572}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{162D57BB-EEBE-4235-8E63-2EB6394C4572}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{162D57BB-EEBE-4235-8E63-2EB6394C4572}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{162D57BB-EEBE-4235-8E63-2EB6394C4572}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1F58946-D06C-4BC4-B36A-D7DED56F5A14}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1F58946-D06C-4BC4-B36A-D7DED56F5A14}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1F58946-D06C-4BC4-B36A-D7DED56F5A14}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1F58946-D06C-4BC4-B36A-D7DED56F5A14}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A36CC1DD-A022-4991-8AFE-E7FB22183896}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "51bKEUZGUmaDf8DsitkYTScaiUmdGUyE5orFcGy2wK9/2CuuA5u9uWin0kKZfJQItjJ7dgGka27A4axYJh4kiA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\מיכל\\Desktop\\HADASSIM\\partA\\Net\\HMOBackOffice\\HMOBackOffice.Core\\HMOBackOffice.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\מיכל\\.nuget\\packages\\automapper\\13.0.1\\automapper.13.0.1.nupkg.sha512",
+    "C:\\Users\\מיכל\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\מיכל\\.nuget\\packages\\microsoft.extensions.options\\6.0.0\\microsoft.extensions.options.6.0.0.nupkg.sha512",
+    "C:\\Users\\מיכל\\.nuget\\packages\\microsoft.extensions.primitives\\6.0.0\\microsoft.extensions.primitives.6.0.0.nupkg.sha512",
+    "C:\\Users\\מיכל\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\6.0.0\\system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "giQHKatEU3Fa8mUmg6uGQnsLmk4QBMIp1bQ/s5xFalw=",
+  "Source": "HMOBackOffice.Api",
+  "BasePath": "_content/HMOBackOffice.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

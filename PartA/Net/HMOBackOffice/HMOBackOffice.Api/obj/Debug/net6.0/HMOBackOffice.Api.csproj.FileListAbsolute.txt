@@ -1,0 +1,225 @@
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.exe
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.deps.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.runtimeconfig.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.HMOBackOffice.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\scopedcss\bundle\HMOBackOffice.Api.styles.css
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CopyComplete
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\refint\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.genruntimeconfig.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\ref\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.exe
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.deps.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.runtimeconfig.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.HMOBackOffice.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\scopedcss\bundle\HMOBackOffice.Api.styles.css
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CopyComplete
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\refint\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.genruntimeconfig.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\ref\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\appsettings.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.exe
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.deps.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.runtimeconfig.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\AutoMapper.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Humanizer.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Data.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\bin\Debug\net6.0\HMOBackOffice.Service.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.HMOBackOffice.Api.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.build.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.HMOBackOffice.Api.props
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\scopedcss\bundle\HMOBackOffice.Api.styles.css
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.csproj.CopyComplete
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\refint\HMOBackOffice.Api.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\HMOBackOffice.Api.genruntimeconfig.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Api\obj\Debug\net6.0\ref\HMOBackOffice.Api.dll

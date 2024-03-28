@@ -1,0 +1,36 @@
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.deps.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\refint\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\ref\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.deps.json
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\refint\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\תרגיל בית הדסים 4\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\ref\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.deps.json
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\bin\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.AssemblyReference.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfoInputs.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.AssemblyInfo.cs
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.csproj.CoreCompileInputs.cache
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\refint\HMOBackOffice.Core.dll
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\HMOBackOffice.Core.pdb
+C:\Users\מיכל\Desktop\HADASSIM\partA\Net\HMOBackOffice\HMOBackOffice.Core\obj\Debug\net6.0\ref\HMOBackOffice.Core.dll
