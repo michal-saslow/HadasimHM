@@ -1,0 +1,9 @@
+.cntNotVaccinated {
+    text-align: center;
+
+}
+
+.activePatients {
+    display: flex;
+    justify-content: center;
+}

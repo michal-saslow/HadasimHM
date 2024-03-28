@@ -1,0 +1,28 @@
+.street {
+    width: 130px;
+}
+
+.number {
+    width: 90px;
+}
+
+.vaccination {
+    display: flex;
+}
+
+.item {
+    width: 150px;
+    height: 20px;
+    margin-right: 10px;
+}
+
+.img {
+    height: 30px;
+    width: 30px;
+    border-radius: 50px;
+}
+
+.divImg {
+    display: flex;
+    justify-content: start;
+}
