@@ -18,4 +18,4 @@ The way the system components communicate with each other:
 ![App Screenshot](https://github.com/michal-saslow/HadassimHomeTest/blob/main/partA/Screenshots/statistics.png)
 
 ## Part Two-RealEstateCompany
-I went out of my mind that the width of the triangle must be greater than 3, otherwise there would not be a valid option to print the triangle, and the program would throw an error.
+I assumed that the width of the triangle must be greater than 3, otherwise there would not be a valid option to print the triangle, and the program would throw an error.
